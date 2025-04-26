@@ -1,12 +1,28 @@
-# React + Vite
+# 🛍️ FakeStore App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional CRUD (Create, Read, Update, Delete) product store built with React. This application interacts with the [FakeStoreAPI](https://fakestoreapi.com/) to display, add, edit, and delete products in a sleek, responsive UI styled with React Bootstrap.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View product listings with image, price, category, and description
+- Detailed product view page
+- Add new products through a user-friendly form
+- Edit existing product details
+- Delete products with confirmation modal
+- React Router for seamless page navigation
+- Responsive and dark-themed UI
 
-## Expanding the ESLint configuration
+## 🧪 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- React Router DOM
+- React Bootstrap
+- Axios
+- FakeStoreAPI
+
+## 🖼️ Screenshots
+
+<!-- You can add images later here if you want -->
+<!-- ![Homepage](screenshots/home.png) -->
+
+## 📂 Project Structure
